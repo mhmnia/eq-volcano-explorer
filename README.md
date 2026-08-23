@@ -6,6 +6,8 @@ Load the USGS earthquake catalogue for a time window and magnitude threshold, cl
 
 **Live version → https://mhmnia.github.io/eq-volcano-explorer/**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22067994.svg)](https://doi.org/10.5281/zenodo.22067994)
+
 ---
 
 ## What it does
@@ -54,7 +56,7 @@ The colour scheme reflects the GVP *Last Known Eruption* field, which is a stati
 
 If this tool contributed to your work, please cite it — see `CITATION.cff`, or:
 
-> Mohammadnia, M. (2026). *Earthquake–Volcano Proximity Explorer* (v1.0.0). Zenodo.
+> Mohammadnia, M. (2026). *Earthquake–Volcano Proximity Explorer* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22067994
 
 ## Licence
 
