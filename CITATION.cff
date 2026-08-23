@@ -17,6 +17,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-08-23"
 license: GPL-3.0-only
+doi: "10.5281/zenodo.22067994"
 repository-code: "https://github.com/mhmnia/eq-volcano-explorer"
 url: "https://mhmnia.github.io/eq-volcano-explorer/"
 keywords:
