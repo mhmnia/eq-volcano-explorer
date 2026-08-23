@@ -18,6 +18,7 @@ Load the USGS earthquake catalogue for a time window and magnitude threshold, cl
 - Colours volcanoes by how recently they erupted, from the GVP *Last Known Eruption* field.
 - Draws the result twice: as a schematic azimuth–distance plot, and on a pannable Esri or OpenStreetMap basemap.
 - Clicking a volcano on the map highlights its row in the table, and the reverse.
+- Clicking a volcano queries the **ASF archive** for Sentinel-1, NISAR or ALOS PALSAR coverage of that point, grouped by relative orbit, and reports the shortest interferogram that spans the earthquake on each track.
 
 ## Volcano catalogue
 
