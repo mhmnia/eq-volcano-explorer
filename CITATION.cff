@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite it as below."
+title: "Earthquake-Volcano Proximity Explorer"
+abstract: >-
+  A browser-based screening tool that lists every Smithsonian GVP Holocene
+  volcano within a chosen radius of a selected USGS earthquake, with distance,
+  azimuth, last known eruption and activity evidence, on a schematic proximity
+  plot and an optional satellite basemap. Intended for rapid screening of which
+  volcanoes are worth examining with InSAR after a large earthquake.
+type: software
+authors:
+  - family-names: Mohammadnia
+    given-names: Mohammadhossein
+    orcid: "https://orcid.org/0009-0000-2193-2980"
+    affiliation: "The University of Hong Kong"
+    ror: "https://ror.org/02zhqgq86"
+version: "1.0.0"
+date-released: "2026-08-23"
+license: GPL-3.0-only
+repository-code: "https://github.com/mhmnia/eq-volcano-explorer"
+url: "https://mhmnia.github.io/eq-volcano-explorer/"
+keywords:
+  - InSAR
+  - volcano geodesy
+  - earthquake-volcano interaction
+  - Sentinel-1
+  - Smithsonian Global Volcanism Program
+  - USGS

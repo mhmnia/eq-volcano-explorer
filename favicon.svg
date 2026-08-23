@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Volcano inside a deformation ring">
+  <rect width="64" height="64" rx="13" fill="#14213d"/>
+  <circle cx="32" cy="36" r="23" fill="none" stroke="#efb135" stroke-width="2.4" opacity="0.55"/>
+  <circle cx="32" cy="36" r="15.5" fill="none" stroke="#efb135" stroke-width="2.4" opacity="0.85"/>
+  <path d="M32 15 L49 47 H15 Z" fill="#c1440e"/>
+  <path d="M32 15 L38.5 27.2 L32 31 L25.5 27.2 Z" fill="#f0f3f7" opacity="0.92"/>
+</svg>
